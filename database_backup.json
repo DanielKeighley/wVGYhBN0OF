@@ -1,0 +1,103 @@
+{
+	"sensor_data": [
+		{
+		"sensor_id" : 0,
+		"country_name" : "Ireland",
+		"city_name" : "Galway",
+		"metrics" : [
+						{
+						"date" : "2022-01-15",
+						"temperature" : 16,
+						"humidity" : 50,
+						"precipitation" : 5,
+						"wind" : 20
+						},
+						{
+						"date" : "2022-02-01",
+						"temperature" : 6,
+						"humidity" : 73,
+						"precipitation" : 20,
+						"wind" : 35
+						},
+						{
+						"date" : "2021-12-25",
+						"temperature" : -2,
+						"humidity" : 67,
+						"precipitation" : 40,
+						"wind" : 45
+						}
+					]
+		},
+		{
+		"sensor_id" : 1,
+		"country_name" : "Ireland",
+		"city_name" : "Limerick"
+		},
+		{
+		"sensor_id" : 2,
+		"country_name" : "Ireland",
+		"city_name" : "Cork"
+		},
+		{
+		"sensor_id" : 3,
+		"country_name" : "Ireland",
+		"city_name" : "Dublin"
+		},
+		{
+		"sensor_id" : 4,
+		"country_name" : "England",
+		"city_name" : "London"
+		},
+		{
+		"sensor_id" : 5,
+		"country_name" : "England",
+		"city_name" : "Manchester"
+		},
+		{
+		"sensor_id" : 6,
+		"country_name" : "England",
+		"city_name" : "Leeds"
+		},
+		{
+		"sensor_id" : 7,
+		"country_name" : "England",
+		"city_name" : "Liverpool",
+		"metrics" : [
+						{
+						"date" : "2022-01-18",
+						"temperature" : 8,
+						"humidity" : 75,
+						"precipitation" : 12,
+						"wind" : 26
+						},
+						{
+						"date" : "2022-02-01",
+						"temperature" : 4,
+						"humidity" : 80,
+						"precipitation" : 27,
+						"wind" : 30
+						}
+					]
+		},
+		{
+		"sensor_id" : 8,
+		"country_name" : "Germany",
+		"city_name" : "Berlin"
+		},
+		{
+		"sensor_id" : 9,
+		"country_name" : "Germany",
+		"city_name" : "Hamburg"
+		},
+		{
+		"sensor_id" : 10,
+		"country_name" : "France",
+		"city_name" : "Paris"
+		},
+		{
+		"sensor_id" : 11,
+		"country_name" : "Spain",
+		"city_name" : "Madrid"
+		}
+	]
+}
